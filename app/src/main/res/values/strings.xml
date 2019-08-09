@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MAD Mini Project_Team Oreo</string>
+    <string name="buttonSave">Save</string>
+    <string name="editTextName">Enter Name</string>
 </resources>
